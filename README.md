@@ -10,5 +10,6 @@ M2i Design Patterns
 - Mettre en oeuvre les Design Patterns sous des exercices pratique en langage Java.
 - S’aligner avec les best-practices afin de Concevoir et créer des solutions algorithmiques résolvant un problème donné
 
-Public concerné
+[ Public concerné ]
+
 Architectes, ingénieurs concepteurs, responsables informatiques, chefs de projets, décideurs informatiques et développeurs objet (Java, .Net).
