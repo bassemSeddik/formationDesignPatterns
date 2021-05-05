@@ -1,5 +1,4 @@
-# Conception et Design Patterns
-M2i Design Patterns
+# Conception et Design Patterns - M2i
 
 [ Objectifs pédagogiques]
 
