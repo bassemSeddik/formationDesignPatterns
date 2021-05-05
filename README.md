@@ -1,7 +1,7 @@
 # Conception et Design Patterns
 M2i Design Patterns
 
-* Objectifs pédagogiques
+[ Objectifs pédagogiques]
 
 - Catégoriser les patterns
 - Connaître les principaux patterns
